@@ -1,0 +1,7 @@
+,PatientData
+Name,"['Mike_Hertz', 'Andrew', 'John', 'Altman', 'adrIENNE']"
+Age,"[30, 40, 44, 29, 43]"
+Gender,"[1, 1, 1, 1, 0]"
+Discharge Date,"['2024-02-02', '2019-08-26', '2022-10-07', '2020-12-18', '2022-10-09']"
+Medication,"['Paracetamol', 'Ibuprofen', 'Aspirin', 'Ibuprofen', 'Penicillin']"
+Test Results,"['Normal', 'Inconclusive', 'Normal', 'Abnormal', ' Abnormal']"
